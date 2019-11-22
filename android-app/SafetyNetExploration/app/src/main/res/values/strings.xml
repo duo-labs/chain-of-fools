@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafetyNet Exploration</string>
+    <string name="make_safetynet_request">Make SafetyNet Request</string>
+    <string name="safetynet_api_key"><![CDATA[<safetynet_api_key_here>]]></string>
+</resources>
